@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://biblelectio.com/</loc></url>
+  <url><loc>https://biblelectio.com/cross-dial/</loc></url>
+  <url><loc>https://biblelectio.com/who-is-speaking/</loc></url>
+  <url><loc>https://biblelectio.com/write-in-it/</loc></url>
+  <url><loc>https://biblelectio.com/library/</loc></url>
+  <url><loc>https://biblelectio.com/your-words/</loc></url>
+  <url><loc>https://biblelectio.com/map/</loc></url>
   <url><loc>https://biblelectio.com/kjv/</loc></url>
   <url><loc>https://biblelectio.com/kjv/genesis/</loc></url>
   <url><loc>https://biblelectio.com/kjv/genesis/1/</loc></url>

@@ -6,9 +6,9 @@
 
 - The cross dial: hold any verse to save it, link it, colour its words or bookmark it
 - Who is speaking: every speaker in the King James Version in a colour of their own, God and Jesus in gold
-- Write in it: notes under any verse with an Apple Pencil, a finger or the keyboard
+- Write in it: notes under any verse, written with an Apple Pencil or typed
 - Your library: folders of saved verses, pinned and linked, on every device
-- Your words: words you study, marked as you read, with their meaning and verses
+- Your words: a dictionary of your own, each word with its meaning, a tap away in any verse
 - The map: 1,335 Bible places on a painted map
 - Hebrew Bible and Hebrew New Testament, a word’s meaning a tap away
 - 69 topics, 5 reading plans and Listen, the chapter read aloud
@@ -21,7 +21,7 @@ BibleLectio is a Bible app for reading and studying the Bible on your phone, you
 
 ### Which Bible app is good for studying, not only reading?
 
-BibleLectio is made for both. Keep the verses that stop you in a library of your own, link verses to each other, write notes under them with an Apple Pencil or your finger, and tap a Hebrew word to see what it means.
+BibleLectio is made for both. Keep the verses that stop you in a library of your own, link verses to each other, write or type notes under them with an Apple Pencil or the keyboard, and tap a Hebrew word to see what it means.
 
 ### Is there a Bible app that shows who is speaking?
 
@@ -29,7 +29,7 @@ Yes. In BibleLectio’s King James Version every speaker has a colour of their o
 
 ### Can I write notes in the Bible with an Apple Pencil?
 
-Yes. BibleLectio opens a page under any verse that you can write on with an Apple Pencil or your finger, or type on. Your notes stay with their verse.
+Yes. BibleLectio opens a page under any verse that you can write on with an Apple Pencil, or type on. Your notes stay with their verse.
 
 ### Which Bibles and translations does BibleLectio have?
 
@@ -47,6 +47,12 @@ No. Open BibleLectio in your browser and start reading. Sign in only to carry yo
 
 - [Open BibleLectio](https://app.biblelectio.com)
 - [Home page](https://biblelectio.com/)
+- [The cross dial · Hold a verse to save, link, colour or bookmark it](https://biblelectio.com/cross-dial/)
+- [Who is speaking · Every speaker of the King James Bible in colour](https://biblelectio.com/who-is-speaking/)
+- [Write in your Bible · Notes under any verse with Apple Pencil](https://biblelectio.com/write-in-it/)
+- [Your Bible library · Save verses into folders, pin and link them](https://biblelectio.com/library/)
+- [Your words · A Bible dictionary of your own](https://biblelectio.com/your-words/)
+- [The Bible map · 1,335 Bible places on a painted map](https://biblelectio.com/map/)
 - [The King James Bible (KJV), every book and chapter](https://biblelectio.com/kjv/)
 - [Genesis (KJV) · King James Version, all 50 chapters](https://biblelectio.com/kjv/genesis/)
 - [Exodus (KJV) · King James Version, all 40 chapters](https://biblelectio.com/kjv/exodus/)
