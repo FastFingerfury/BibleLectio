@@ -1,0 +1,186 @@
+# BibleLectio
+
+> BibleLectio is a Bible app for reading and studying the Bible on your phone, your iPad and your computer. It opens in any browser at https://app.biblelectio.com, with nothing to install and no account needed to start.
+
+## What it does
+
+- The cross dial: hold any verse to save it, link it, colour its words or bookmark it
+- Who is speaking: every speaker in the King James Version in a colour of their own, God and Jesus in gold
+- Write in it: notes under any verse with an Apple Pencil, a finger or the keyboard
+- Your library: folders of saved verses, pinned and linked, on every device
+- Your words: words you study, marked as you read, with their meaning and verses
+- The map: 1,335 Bible places on a painted map
+- Hebrew Bible and Hebrew New Testament, a word’s meaning a tap away
+- 69 topics, 5 reading plans and Listen, the chapter read aloud
+
+## Questions people ask
+
+### What is BibleLectio?
+
+BibleLectio is a Bible app for reading and studying the Bible on your phone, your iPad and your computer. Hold any verse and the cross dial opens under your finger, to save the verse to your library, link it to another verse, colour its words or bookmark it.
+
+### Which Bible app is good for studying, not only reading?
+
+BibleLectio is made for both. Keep the verses that stop you in a library of your own, link verses to each other, write notes under them with an Apple Pencil or your finger, and tap a Hebrew word to see what it means.
+
+### Is there a Bible app that shows who is speaking?
+
+Yes. In BibleLectio’s King James Version every speaker has a colour of their own, the whole way through the Bible. God and Jesus are in gold and angels in blue, so you always know who is talking.
+
+### Can I write notes in the Bible with an Apple Pencil?
+
+Yes. BibleLectio opens a page under any verse that you can write on with an Apple Pencil or your finger, or type on. Your notes stay with their verse.
+
+### Which Bibles and translations does BibleLectio have?
+
+BibleLectio has the King James Version, the World English Bible, the American Standard Version, the Reina-Valera 1909 in Spanish, the Japanese Colloquial Bible of 1955, the Hebrew Bible (Westminster Leningrad Codex) with a Hebrew New Testament (Salkinson-Ginsburg, 1886), and the Apocrypha, 1 Enoch, Jubilees, Jasher and the Testament of Moses.
+
+### Is there a Bible app with a map of Bible places?
+
+Yes. BibleLectio puts 1,335 places from the Bible on a painted map of the Bible’s world. Tap a place to read every verse that names it.
+
+### Do I need an account to use BibleLectio?
+
+No. Open BibleLectio in your browser and start reading. Sign in only to carry your library to every device. The iPhone and iPad app is coming to the App Store.
+
+## Links
+
+- [Open BibleLectio](https://app.biblelectio.com)
+- [Home page](https://biblelectio.com/)
+- [The King James Bible (KJV), every book and chapter](https://biblelectio.com/kjv/)
+- [Genesis (KJV) · King James Version, all 50 chapters](https://biblelectio.com/kjv/genesis/)
+- [Exodus (KJV) · King James Version, all 40 chapters](https://biblelectio.com/kjv/exodus/)
+- [Leviticus (KJV) · King James Version, all 27 chapters](https://biblelectio.com/kjv/leviticus/)
+- [Numbers (KJV) · King James Version, all 36 chapters](https://biblelectio.com/kjv/numbers/)
+- [Deuteronomy (KJV) · King James Version, all 34 chapters](https://biblelectio.com/kjv/deuteronomy/)
+- [Joshua (KJV) · King James Version, all 24 chapters](https://biblelectio.com/kjv/joshua/)
+- [Judges (KJV) · King James Version, all 21 chapters](https://biblelectio.com/kjv/judges/)
+- [Ruth (KJV) · King James Version, all 4 chapters](https://biblelectio.com/kjv/ruth/)
+- [1 Samuel (KJV) · King James Version, all 31 chapters](https://biblelectio.com/kjv/1-samuel/)
+- [2 Samuel (KJV) · King James Version, all 24 chapters](https://biblelectio.com/kjv/2-samuel/)
+- [1 Kings (KJV) · King James Version, all 22 chapters](https://biblelectio.com/kjv/1-kings/)
+- [2 Kings (KJV) · King James Version, all 25 chapters](https://biblelectio.com/kjv/2-kings/)
+- [1 Chronicles (KJV) · King James Version, all 29 chapters](https://biblelectio.com/kjv/1-chronicles/)
+- [2 Chronicles (KJV) · King James Version, all 36 chapters](https://biblelectio.com/kjv/2-chronicles/)
+- [Ezra (KJV) · King James Version, all 10 chapters](https://biblelectio.com/kjv/ezra/)
+- [Nehemiah (KJV) · King James Version, all 13 chapters](https://biblelectio.com/kjv/nehemiah/)
+- [Esther (KJV) · King James Version, all 10 chapters](https://biblelectio.com/kjv/esther/)
+- [Job (KJV) · King James Version, all 42 chapters](https://biblelectio.com/kjv/job/)
+- [Psalms (KJV) · King James Version, all 150 chapters](https://biblelectio.com/kjv/psalms/)
+- [Proverbs (KJV) · King James Version, all 31 chapters](https://biblelectio.com/kjv/proverbs/)
+- [Ecclesiastes (KJV) · King James Version, all 12 chapters](https://biblelectio.com/kjv/ecclesiastes/)
+- [Song of Solomon (KJV) · King James Version, all 8 chapters](https://biblelectio.com/kjv/song-of-solomon/)
+- [Isaiah (KJV) · King James Version, all 66 chapters](https://biblelectio.com/kjv/isaiah/)
+- [Jeremiah (KJV) · King James Version, all 52 chapters](https://biblelectio.com/kjv/jeremiah/)
+- [Lamentations (KJV) · King James Version, all 5 chapters](https://biblelectio.com/kjv/lamentations/)
+- [Ezekiel (KJV) · King James Version, all 48 chapters](https://biblelectio.com/kjv/ezekiel/)
+- [Daniel (KJV) · King James Version, all 12 chapters](https://biblelectio.com/kjv/daniel/)
+- [Hosea (KJV) · King James Version, all 14 chapters](https://biblelectio.com/kjv/hosea/)
+- [Joel (KJV) · King James Version, all 3 chapters](https://biblelectio.com/kjv/joel/)
+- [Amos (KJV) · King James Version, all 9 chapters](https://biblelectio.com/kjv/amos/)
+- [Obadiah (KJV) · King James Version, all 1 chapter](https://biblelectio.com/kjv/obadiah/)
+- [Jonah (KJV) · King James Version, all 4 chapters](https://biblelectio.com/kjv/jonah/)
+- [Micah (KJV) · King James Version, all 7 chapters](https://biblelectio.com/kjv/micah/)
+- [Nahum (KJV) · King James Version, all 3 chapters](https://biblelectio.com/kjv/nahum/)
+- [Habakkuk (KJV) · King James Version, all 3 chapters](https://biblelectio.com/kjv/habakkuk/)
+- [Zephaniah (KJV) · King James Version, all 3 chapters](https://biblelectio.com/kjv/zephaniah/)
+- [Haggai (KJV) · King James Version, all 2 chapters](https://biblelectio.com/kjv/haggai/)
+- [Zechariah (KJV) · King James Version, all 14 chapters](https://biblelectio.com/kjv/zechariah/)
+- [Malachi (KJV) · King James Version, all 4 chapters](https://biblelectio.com/kjv/malachi/)
+- [Matthew (KJV) · King James Version, all 28 chapters](https://biblelectio.com/kjv/matthew/)
+- [Mark (KJV) · King James Version, all 16 chapters](https://biblelectio.com/kjv/mark/)
+- [Luke (KJV) · King James Version, all 24 chapters](https://biblelectio.com/kjv/luke/)
+- [John (KJV) · King James Version, all 21 chapters](https://biblelectio.com/kjv/john/)
+- [Acts (KJV) · King James Version, all 28 chapters](https://biblelectio.com/kjv/acts/)
+- [Romans (KJV) · King James Version, all 16 chapters](https://biblelectio.com/kjv/romans/)
+- [1 Corinthians (KJV) · King James Version, all 16 chapters](https://biblelectio.com/kjv/1-corinthians/)
+- [2 Corinthians (KJV) · King James Version, all 13 chapters](https://biblelectio.com/kjv/2-corinthians/)
+- [Galatians (KJV) · King James Version, all 6 chapters](https://biblelectio.com/kjv/galatians/)
+- [Ephesians (KJV) · King James Version, all 6 chapters](https://biblelectio.com/kjv/ephesians/)
+- [Philippians (KJV) · King James Version, all 4 chapters](https://biblelectio.com/kjv/philippians/)
+- [Colossians (KJV) · King James Version, all 4 chapters](https://biblelectio.com/kjv/colossians/)
+- [1 Thessalonians (KJV) · King James Version, all 5 chapters](https://biblelectio.com/kjv/1-thessalonians/)
+- [2 Thessalonians (KJV) · King James Version, all 3 chapters](https://biblelectio.com/kjv/2-thessalonians/)
+- [1 Timothy (KJV) · King James Version, all 6 chapters](https://biblelectio.com/kjv/1-timothy/)
+- [2 Timothy (KJV) · King James Version, all 4 chapters](https://biblelectio.com/kjv/2-timothy/)
+- [Titus (KJV) · King James Version, all 3 chapters](https://biblelectio.com/kjv/titus/)
+- [Philemon (KJV) · King James Version, all 1 chapter](https://biblelectio.com/kjv/philemon/)
+- [Hebrews (KJV) · King James Version, all 13 chapters](https://biblelectio.com/kjv/hebrews/)
+- [James (KJV) · King James Version, all 5 chapters](https://biblelectio.com/kjv/james/)
+- [1 Peter (KJV) · King James Version, all 5 chapters](https://biblelectio.com/kjv/1-peter/)
+- [2 Peter (KJV) · King James Version, all 3 chapters](https://biblelectio.com/kjv/2-peter/)
+- [1 John (KJV) · King James Version, all 5 chapters](https://biblelectio.com/kjv/1-john/)
+- [2 John (KJV) · King James Version, all 1 chapter](https://biblelectio.com/kjv/2-john/)
+- [3 John (KJV) · King James Version, all 1 chapter](https://biblelectio.com/kjv/3-john/)
+- [Jude (KJV) · King James Version, all 1 chapter](https://biblelectio.com/kjv/jude/)
+- [Revelation (KJV) · King James Version, all 22 chapters](https://biblelectio.com/kjv/revelation/)
+- [Bible verses by topic (KJV)](https://biblelectio.com/topics/)
+- [Bible verses about anxiety and worry (KJV)](https://biblelectio.com/bible-verses-about-anxiety/)
+- [Bible verses about fear (KJV)](https://biblelectio.com/bible-verses-about-fear/)
+- [Bible verses about depression (KJV)](https://biblelectio.com/bible-verses-about-depression/)
+- [Bible verses about loneliness (KJV)](https://biblelectio.com/bible-verses-about-loneliness/)
+- [Bible verses about sadness (KJV)](https://biblelectio.com/bible-verses-about-sadness/)
+- [Bible verses about guilt and shame (KJV)](https://biblelectio.com/bible-verses-about-guilt-and-shame/)
+- [Bible verses about anger (KJV)](https://biblelectio.com/bible-verses-about-anger/)
+- [Bible verses about failure and regret (KJV)](https://biblelectio.com/bible-verses-about-failure-and-regret/)
+- [Bible verses about bitterness and revenge (KJV)](https://biblelectio.com/bible-verses-about-bitterness-and-revenge/)
+- [Bible verses about jealousy and envy (KJV)](https://biblelectio.com/bible-verses-about-jealousy-and-envy/)
+- [Bible verses about peace of mind (KJV)](https://biblelectio.com/bible-verses-about-peace-of-mind/)
+- [Bible verses about hope (KJV)](https://biblelectio.com/bible-verses-about-hope/)
+- [Bible verses about comfort (KJV)](https://biblelectio.com/bible-verses-about-comfort/)
+- [Bible verses about joy (KJV)](https://biblelectio.com/bible-verses-about-joy/)
+- [Bible verses about thankfulness (KJV)](https://biblelectio.com/bible-verses-about-thankfulness/)
+- [Bible verses about new beginnings (KJV)](https://biblelectio.com/bible-verses-about-new-beginnings/)
+- [Bible verses about sickness and healing (KJV)](https://biblelectio.com/bible-verses-about-sickness-and-healing/)
+- [Bible verses about grief (KJV)](https://biblelectio.com/bible-verses-about-grief/)
+- [Bible verses about suffering and trials (KJV)](https://biblelectio.com/bible-verses-about-suffering-and-trials/)
+- [Bible verses about thoughts of suicide (KJV)](https://biblelectio.com/bible-verses-about-thoughts-of-suicide/)
+- [Bible verses about why bad things happen (KJV)](https://biblelectio.com/bible-verses-about-why-bad-things-happen/)
+- [Bible verses about tiredness and rest (KJV)](https://biblelectio.com/bible-verses-about-tiredness-and-rest/)
+- [Bible verses about sleep (KJV)](https://biblelectio.com/bible-verses-about-sleep/)
+- [Bible verses about abuse (KJV)](https://biblelectio.com/bible-verses-about-abuse/)
+- [Bible verses about waiting and patience (KJV)](https://biblelectio.com/bible-verses-about-waiting-and-patience/)
+- [Bible verses about marriage (KJV)](https://biblelectio.com/bible-verses-about-marriage/)
+- [Bible verses about love (KJV)](https://biblelectio.com/bible-verses-about-love/)
+- [Bible verses about forgiving others (KJV)](https://biblelectio.com/bible-verses-about-forgiving-others/)
+- [Bible verses about friendship (KJV)](https://biblelectio.com/bible-verses-about-friendship/)
+- [Bible verses about parents and children (KJV)](https://biblelectio.com/bible-verses-about-parents-and-children/)
+- [Bible verses about divorce (KJV)](https://biblelectio.com/bible-verses-about-divorce/)
+- [Bible verses about family fights (KJV)](https://biblelectio.com/bible-verses-about-family-fights/)
+- [Bible verses about betrayal and affairs (KJV)](https://biblelectio.com/bible-verses-about-betrayal-and-affairs/)
+- [Bible verses about dating and being single (KJV)](https://biblelectio.com/bible-verses-about-dating-and-being-single/)
+- [Bible verses about having no children (KJV)](https://biblelectio.com/bible-verses-about-having-no-children/)
+- [Bible verses about growing old (KJV)](https://biblelectio.com/bible-verses-about-growing-old/)
+- [Bible verses about faith and trust (KJV)](https://biblelectio.com/bible-verses-about-faith-and-trust/)
+- [Bible verses about prayer (KJV)](https://biblelectio.com/bible-verses-about-prayer/)
+- [Bible verses about God's will and decisions (KJV)](https://biblelectio.com/bible-verses-about-gods-will-and-decisions/)
+- [Bible verses about salvation (KJV)](https://biblelectio.com/bible-verses-about-salvation/)
+- [Bible verses about heaven and hell (KJV)](https://biblelectio.com/bible-verses-about-heaven-and-hell/)
+- [Bible verses about doubt and feeling far from God (KJV)](https://biblelectio.com/bible-verses-about-doubt-and-feeling-far-from-god/)
+- [Bible verses about coming back to God (KJV)](https://biblelectio.com/bible-verses-about-coming-back-to-god/)
+- [Bible verses about serving and gifts (KJV)](https://biblelectio.com/bible-verses-about-serving-and-gifts/)
+- [Bible verses about church troubles (KJV)](https://biblelectio.com/bible-verses-about-church-troubles/)
+- [Bible verses about purpose (KJV)](https://biblelectio.com/bible-verses-about-purpose/)
+- [Bible verses about self-worth (KJV)](https://biblelectio.com/bible-verses-about-self-worth/)
+- [Bible verses about courage (KJV)](https://biblelectio.com/bible-verses-about-courage/)
+- [Bible verses about wisdom (KJV)](https://biblelectio.com/bible-verses-about-wisdom/)
+- [Bible verses about self-control (KJV)](https://biblelectio.com/bible-verses-about-self-control/)
+- [Bible verses about pride and humility (KJV)](https://biblelectio.com/bible-verses-about-pride-and-humility/)
+- [Bible verses about money (KJV)](https://biblelectio.com/bible-verses-about-money/)
+- [Bible verses about work (KJV)](https://biblelectio.com/bible-verses-about-work/)
+- [Bible verses about being poor (KJV)](https://biblelectio.com/bible-verses-about-being-poor/)
+- [Bible verses about contentment (KJV)](https://biblelectio.com/bible-verses-about-contentment/)
+- [Bible verses about giving (KJV)](https://biblelectio.com/bible-verses-about-giving/)
+- [Bible verses about addiction and drinking (KJV)](https://biblelectio.com/bible-verses-about-addiction-and-drinking/)
+- [Bible verses about lust and purity (KJV)](https://biblelectio.com/bible-verses-about-lust-and-purity/)
+- [Bible verses about temptation (KJV)](https://biblelectio.com/bible-verses-about-temptation/)
+- [Bible verses about laziness (KJV)](https://biblelectio.com/bible-verses-about-laziness/)
+- [Bible verses about lying and honesty (KJV)](https://biblelectio.com/bible-verses-about-lying-and-honesty/)
+- [Bible verses about gossip and bad words (KJV)](https://biblelectio.com/bible-verses-about-gossip-and-bad-words/)
+- [Bible verses about injustice (KJV)](https://biblelectio.com/bible-verses-about-injustice/)
+- [Bible verses about arguments and making peace (KJV)](https://biblelectio.com/bible-verses-about-arguments-and-making-peace/)
+- [Bible verses about rulers and laws (KJV)](https://biblelectio.com/bible-verses-about-rulers-and-laws/)
+- [Bible verses about war and violence (KJV)](https://biblelectio.com/bible-verses-about-war-and-violence/)
+- [Bible verses about enemies and bullying (KJV)](https://biblelectio.com/bible-verses-about-enemies-and-bullying/)
+- [Bible verses about judging and criticism (KJV)](https://biblelectio.com/bible-verses-about-judging-and-criticism/)
+- [Bible verses about racism and strangers (KJV)](https://biblelectio.com/bible-verses-about-racism-and-strangers/)
