@@ -47,7 +47,7 @@ No. Open BibleLectio in your browser and start reading. Sign in only to carry yo
 
 - [Open BibleLectio](https://app.biblelectio.com)
 - [Home page](https://biblelectio.com/)
-- [The cross dial · Hold a verse to save, link, colour or bookmark it](https://biblelectio.com/cross-dial/)
+- [The cross dial · Hold a verse to save, link, highlight or bookmark it](https://biblelectio.com/cross-dial/)
 - [Who is speaking · Every speaker of the King James Bible in colour](https://biblelectio.com/who-is-speaking/)
 - [Write in your Bible · Notes under any verse with Apple Pencil](https://biblelectio.com/write-in-it/)
 - [Your Bible library · Save verses into folders, pin and link them](https://biblelectio.com/library/)
