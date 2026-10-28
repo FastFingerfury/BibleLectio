@@ -13,6 +13,17 @@
 - Hebrew Bible and Hebrew New Testament, a word’s meaning a tap away
 - 69 topics, 5 reading plans and Listen, the chapter read aloud
 
+## At a glance
+
+- What it is: BibleLectio is a Bible app for reading and studying the Bible on your phone, your iPad and your computer.
+- Works on: Phones, iPads and computers, in any web browser at app.biblelectio.com. The iPhone and iPad app is coming to the App Store.
+- To start: Nothing to install and no account needed. Sign in only to carry your library to every device.
+- Bibles: 12 texts in English, Spanish, Japanese and Hebrew, among them the King James Version, the World English Bible, the Reina-Valera 1909 and the Hebrew Bible with a Hebrew New Testament.
+- Dictionaries: Strong’s Hebrew and Greek, Easton’s Bible Dictionary (1897) and Webster’s Dictionary (1913); for the Spanish Reina-Valera, the Real Academia’s dictionary of 1914 and Rand’s Diccionario de la Santa Biblia.
+- For study: Who is speaking in colour, notes written with an Apple Pencil or typed, links between verses, bookmarks, underlines and colours of your own.
+- For reading: 69 topics, 5 reading plans and Listen, which reads the chapter aloud.
+- The map: 1,335 places from the Bible on a painted map of the Bible’s world.
+
 ## Questions people ask
 
 ### What is BibleLectio?
@@ -38,6 +49,22 @@ BibleLectio has the King James Version, the World English Bible, the American St
 ### Is there a Bible app with a map of Bible places?
 
 Yes. BibleLectio puts 1,335 places from the Bible on a painted map of the Bible’s world. Tap a place to read every verse that names it.
+
+### Is there a Bible app with Strong’s numbers and a Bible dictionary?
+
+Yes. In BibleLectio, hold a word in the King James Version and choose Dictionary on the cross dial. From then on, tap the word and its card shows what Strong’s, Easton’s Bible Dictionary and Webster’s Dictionary of 1913 say of it; tap one to read it.
+
+### How do I link Bible verses together?
+
+In BibleLectio, hold a verse, choose Link verse on the cross dial and tap any other verse, in any book. Tap as many as you like, then Done. Linked lists every verse joined to that verse, with its words.
+
+### Is there a Bible app with reading plans that reads the Bible aloud?
+
+Yes. BibleLectio has five reading plans, among them the Bible in a year, the New Testament in 90 days and the four Gospels in 30 days, and opens on the day’s chapter. Listen reads the chapter aloud, verse by verse, in your device’s voice.
+
+### Where can I find Bible verses about worry, fear or grief?
+
+BibleLectio’s Topics has 69 topics for what people go through, among them worry, fear, grief, depression, anger and forgiving others. Each topic opens with the verses people love most, then every verse on it, and each has its own page at biblelectio.com/topics/.
 
 ### Do I need an account to use BibleLectio?
 
@@ -190,3 +217,4 @@ No. Open BibleLectio in your browser and start reading. Sign in only to carry yo
 - [Bible verses about enemies and bullying (KJV)](https://biblelectio.com/bible-verses-about-enemies-and-bullying/)
 - [Bible verses about judging and criticism (KJV)](https://biblelectio.com/bible-verses-about-judging-and-criticism/)
 - [Bible verses about racism and strangers (KJV)](https://biblelectio.com/bible-verses-about-racism-and-strangers/)
+- [Places in the Bible: every place on one map (KJV)](https://biblelectio.com/places/)
