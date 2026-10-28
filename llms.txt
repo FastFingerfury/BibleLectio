@@ -218,3 +218,4 @@ No. Open BibleLectio in your browser and start reading. Sign in only to carry yo
 - [Bible verses about judging and criticism (KJV)](https://biblelectio.com/bible-verses-about-judging-and-criticism/)
 - [Bible verses about racism and strangers (KJV)](https://biblelectio.com/bible-verses-about-racism-and-strangers/)
 - [Places in the Bible: every place on one map (KJV)](https://biblelectio.com/places/)
+- [People in the Bible: everyone the King James names](https://biblelectio.com/people/)
