@@ -1009,7 +1009,7 @@ only: "IN the name of the Father, and of the Son, and of the Holy Ghost: One God
 
 **[71:1]** But when Adam heard these words from Satan, he sorrowed much, because of his oath and of his promise, and said, "Shall I commit adultery with my flesh and my bones, and shall I sin against myself, for God to destroy me, and to blot me out from off the face of the earth?
 **[71:2]** "Since, when at first, I ate of the tree, He drove me out of the garden into this strange land, and deprived me of my bright nature, and brought death upon me. If, then, I should do this, He will cut off my life from the earth, and He will cast me into hell, and will plague me there a long time.
-**[71:3]** "But God never spoke the words thou hast told me; and ye are not God's angels, nor yet sent from Him. But ye are devils, come to me under the false appearance of angels. Away from me; ye cursed of God \"
+**[71:3]** "But God never spoke the words thou hast told me; and ye are not God's angels, nor yet sent from Him. But ye are devils, come to me under the false appearance of angels. Away from me; ye cursed of God!"
 **[71:4]** Then those devils fled from before Adam. And he and Eve arose, and returned to the Cave of Treasures, and went into it.
 **[71:5]** Then Adam said to Eve, "If thou sawest what I did, tell it not; for I sinned against God in swearing by His great name, and I have placed my hand another time into that of Satan." Eve, then, held her peace, as Adam told her.
 **[71:6]** Then Adam arose, and spread his hands unto God, beseeching and entreating Him with tears, to forgive him what he had done. And Adam remained thus standing and praying forty days and forty nights. He neither ate nor drank until he dropped down upon the earth from hunger and thirst.
@@ -1053,7 +1053,7 @@ only: "IN the name of the Father, and of the Son, and of the Holy Ghost: One God
 ## Chapter 73
 
 **[73:1]** Then God looked upon the words of Adam that they were true, and that he could long await His order, respecting the counsel of Satan.
-**[73:2]** And God approved Adam in what he had thought concerning this, and in the prayer he had offered in His presence; and the Word of God came unto Adam and said to him, "O Adam, if only thou hadst had this caution at first, ere thou camest out of the garden into this land \"
+**[73:2]** And God approved Adam in what he had thought concerning this, and in the prayer he had offered in His presence; and the Word of God came unto Adam and said to him, "O Adam, if only thou hadst had this caution at first, ere thou camest out of the garden into this land!"
 **[73:3]** After that, God sent His angel who had brought gold, and the angel who had brought incense, and the angel who had brought myrrh to Adam, that they should inforoi him respecting his wedding Eve.
 **[73:4]** Then those angels said to Adam, "Take the gold and give it to Eve as a wedding gift, and betroth her; then give her some incense and myrrh as a present; and be ye, thou and she, one flesh."
 **[73:5]** Adam hearkened to the angels, and took the gold and put it into Eve's bosom in her garment; and bethrothed "her with his hand.
