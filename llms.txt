@@ -18,7 +18,7 @@
 - What it is: BibleLectio is a Bible app for reading and studying the Bible on your phone, your iPad and your computer.
 - Works on: Phones, iPads and computers, in any web browser at app.biblelectio.com. The iPhone and iPad app is coming to the App Store.
 - To start: Nothing to install and no account needed. Sign in only to carry your library to every device.
-- Bibles: 18 texts in English, Spanish, Japanese and Hebrew, among them the King James Version, the World English Bible, the Reina-Valera 1909 and the Hebrew Bible with a Hebrew New Testament.
+- Bibles: 19 texts in English, Spanish, Japanese and Hebrew, among them the King James Version, the World English Bible, the Reina-Valera 1909 and the Hebrew Bible with a Hebrew New Testament.
 - Dictionaries: Strong’s Hebrew and Greek, Easton’s Bible Dictionary (1897) and Webster’s Dictionary (1913); for the Spanish Reina-Valera, the Real Academia’s dictionary of 1914 and Rand’s Diccionario de la Santa Biblia.
 - For study: Who is speaking in colour, notes written with an Apple Pencil or typed, links between verses, bookmarks, underlines and colours of your own.
 - For reading: 69 topics, 5 reading plans and Listen, which reads the chapter aloud.
@@ -231,3 +231,4 @@ No. Open BibleLectio in your browser and start reading. Sign in only to carry yo
 - [Psalms 151 to 155: where the text comes from](https://biblelectio.com/texts/psalms-151-to-155/)
 - [2 Enoch: where the text comes from](https://biblelectio.com/texts/2-enoch/)
 - [Psalms of Solomon: where the text comes from](https://biblelectio.com/texts/psalms-of-solomon/)
+- [2 Baruch: where the text comes from](https://biblelectio.com/texts/2-baruch/)
