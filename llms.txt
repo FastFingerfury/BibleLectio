@@ -1,6 +1,6 @@
 # BibleLectio
 
-> BibleLectio is a Bible app for reading and studying the Bible on your phone, your iPad and your computer. It opens in any browser at https://app.biblelectio.com, with nothing to install and no account needed to start.
+> BibleLectio is a free Bible app for reading and studying the Bible on your phone, your iPad and your computer. It is free, and opens in any browser at https://app.biblelectio.com, with nothing to install and no account needed to start.
 
 ## What it does
 
@@ -11,24 +11,26 @@
 - Your words: a dictionary of your own, each word with its meaning, a tap away in any verse
 - The map: 1,335 Bible places on a painted map
 - Hebrew Bible and Hebrew New Testament, a word’s meaning a tap away
-- 69 topics, 5 reading plans and Listen, the chapter read aloud
+- 69 topics and 10 reading plans, the quests
+- Free, with no account needed to start
 
 ## At a glance
 
-- What it is: BibleLectio is a Bible app for reading and studying the Bible on your phone, your iPad and your computer.
+- What it is: BibleLectio is a free Bible app for reading and studying the Bible on your phone, your iPad and your computer.
+- Price: Free. Everything in BibleLectio is free today. An optional Plus for extras may come later.
 - Works on: Phones, iPads and computers, in any web browser at app.biblelectio.com. The iPhone and iPad app is coming to the App Store.
-- To start: Nothing to install and no account needed. Sign in only to carry your library to every device.
+- To start: Nothing to install and no account needed. Sign in only to carry your library to every device; the account is free.
 - Bibles: 19 texts in English, Spanish, Japanese and Hebrew, among them the King James Version, the World English Bible, the Reina-Valera 1909 and the Hebrew Bible with a Hebrew New Testament.
 - Dictionaries: Strong’s Hebrew and Greek, Easton’s Bible Dictionary (1897) and Webster’s Dictionary (1913); for the Spanish Reina-Valera, the Real Academia’s dictionary of 1914 and Rand’s Diccionario de la Santa Biblia.
 - For study: Who is speaking in colour, notes written with an Apple Pencil or typed, links between verses, bookmarks, underlines and colours of your own.
-- For reading: 69 topics, 5 reading plans and Listen, which reads the chapter aloud.
+- For reading: 69 topics and 10 reading plans, the quests, each a small land that grows as you read.
 - The map: 1,335 places from the Bible on a painted map of the Bible’s world.
 
 ## Questions people ask
 
 ### What is BibleLectio?
 
-BibleLectio is a Bible app for reading and studying the Bible on your phone, your iPad and your computer. Hold any verse and the cross dial opens under your finger, to save the verse to your library, link it to another verse, colour its words or bookmark it.
+BibleLectio is a free Bible app for reading and studying the Bible on your phone, your iPad and your computer. Hold any verse and the cross dial opens under your finger, to save the verse to your library, link it to another verse, colour its words or bookmark it.
 
 ### Which Bible app is good for studying, not only reading?
 
@@ -58,17 +60,21 @@ Yes. In BibleLectio, hold a word in the King James Version and choose Dictionary
 
 In BibleLectio, hold a verse, choose Link verse on the cross dial and tap any other verse, in any book. Tap as many as you like, then Done. Linked lists every verse joined to that verse, with its words.
 
-### Is there a Bible app with reading plans that reads the Bible aloud?
+### Is there a Bible app with reading plans?
 
-Yes. BibleLectio has five reading plans, among them the Bible in a year, the New Testament in 90 days and the four Gospels in 30 days, and opens on the day’s chapter. Listen reads the chapter aloud, verse by verse, in your device’s voice.
+Yes. BibleLectio has ten reading plans, called quests, among them the Bible in a year, the New Testament in 90 days, the four Gospels in 30 days and a plan of your own books. Each quest is a small land of its own that grows as you read.
 
 ### Where can I find Bible verses about worry, fear or grief?
 
 BibleLectio’s Topics has 69 topics for what people go through, among them worry, fear, grief, depression, anger and forgiving others. Each topic opens with the verses people love most, then every verse on it, and each has its own page at biblelectio.com/topics/.
 
+### Is BibleLectio free?
+
+Yes. BibleLectio is free, and everything in it is free today: every Bible, the dictionaries, who is speaking, the topics, the notes, the map and the reading plans. No account is needed to start. An optional Plus for extras may come later.
+
 ### Do I need an account to use BibleLectio?
 
-No. Open BibleLectio in your browser and start reading. Sign in only to carry your library to every device. The iPhone and iPad app is coming to the App Store.
+No. Open BibleLectio in your browser and start reading. Sign in only to carry your library to every device; an account is free and can be made at biblelectio.com or in the app. The iPhone and iPad app is coming to the App Store.
 
 ## Links
 
@@ -232,3 +238,4 @@ No. Open BibleLectio in your browser and start reading. Sign in only to carry yo
 - [2 Enoch: where the text comes from](https://biblelectio.com/texts/2-enoch/)
 - [Psalms of Solomon: where the text comes from](https://biblelectio.com/texts/psalms-of-solomon/)
 - [2 Baruch: where the text comes from](https://biblelectio.com/texts/2-baruch/)
+- [About BibleLectio · who makes it, and why](https://biblelectio.com/about/)
